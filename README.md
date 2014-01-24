@@ -1,6 +1,6 @@
 ## SF Food Trucks
 
-This is a simple web app that serves as an experiment in integrating with the [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/). It allows a user to search for food trucks in San Francisco and display the results on a map.
+This is a simple web app that serves as an experiment in integrating with the [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/). It allows a user to search for food trucks in San Francisco and displays the results on a map.
 
 You can see the app running [here](http://sfft.herokuapp.com/).
 
